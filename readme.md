@@ -273,3 +273,8 @@ Starts a fresh project folder (`git2`) with an `index.html`, inits it, and commi
 8. Read the official docs and experiment; struggle is part of learning.
 9. Open source = talk first, add real value, iterate patiently.
 10. Use Git every single day.
+
+## Extra Resources
+
+- Atlassian Git Tutorials: https://www.atlassian.com/git/tutorials/
+  - Great for visual explanations of branching, merging, rebasing, and common Git workflows.
