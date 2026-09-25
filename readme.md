@@ -1,6 +1,5 @@
-# Step-by-Step Explanation 
+# Learn Git – Full Course for Beginners"** (~3 hours 43 minutes), taught by **Hitesh Choudhary**.
 
-Learn Git – Full Course for Beginners"** (~3 hours 43 minutes), taught by **Hitesh Choudhary**.
 ---
 
 ## Step 1 — Introduction: Why Version Control? (00:00 – 06:10)
