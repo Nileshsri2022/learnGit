@@ -276,5 +276,8 @@ Starts a fresh project folder (`git2`) with an `index.html`, inits it, and commi
 
 ## Extra Resources
 
-- Atlassian Git Tutorials: https://www.atlassian.com/git/tutorials/
-  - Great for visual explanations of branching, merging, rebasing, and common Git workflows.
+- official Docs : Heavy not preferred | https://git-scm.com/docs
+- Atlassian Git Tutorials: Great for visual explanations of branching, merging, rebasing, and common Git workflows | https://www.atlassian.com/git/tutorials/ 
+- Youtube video : Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Developers in 2024 | https://www.youtube.com/watch?v=S7XpTAnSDL4
+- Play with Git visually : https://learngitbranching.js.org/
+- 
