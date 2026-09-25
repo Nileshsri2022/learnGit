@@ -1,14 +1,6 @@
-# Step-by-Step Explanation of the Document
+# Step-by-Step Explanation 
 
-**Document:** `tactiq-free-transcript-zTjRZNkhiEU.txt`
-**What it is:** An auto-generated YouTube transcript (via tactiq.io) of the video **"Learn Git – Full Course for Beginners"** (~3 hours 43 minutes), taught by **Hitesh Choudhary**.
-
-> Note: because it's an auto-generated transcript, it contains speech-to-text errors — e.g. "get" / "gate" instead of **git**, "Wim" instead of **Vim**, "G init" instead of `git init`. The explanation below corrects these.
-
-The course is **language-agnostic** (no programming, only plain text files) and the instructor's stated goal is: *don't memorize thousands of commands — understand the Git workflow and what happens behind the scenes (inside the `.git` folder).*
-
-Below is the document explained **step by step, in the order it's taught**, with the approximate timestamps where each step appears in the transcript.
-
+Learn Git – Full Course for Beginners"** (~3 hours 43 minutes), taught by **Hitesh Choudhary**.
 ---
 
 ## Step 1 — Introduction: Why Version Control? (00:00 – 06:10)
