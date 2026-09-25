@@ -1,7 +1,6 @@
 # Learn Git – Full Course for Beginners"** (~3 hours 43 minutes), taught by **Hitesh Choudhary**.
 
 ---
-
 ## Step 1 — Introduction: Why Version Control? (00:00 – 06:10)
 
 - **The problem:** Thousands of engineers enter software development every year and realize building software is hard — you collaborate with many people, and some days the code works, some days it doesn't.
@@ -280,4 +279,3 @@ Starts a fresh project folder (`git2`) with an `index.html`, inits it, and commi
 - Atlassian Git Tutorials: Great for visual explanations of branching, merging, rebasing, and common Git workflows | https://www.atlassian.com/git/tutorials/ 
 - Youtube video : Git & GitHub Tutorial | Visualized Git Course for Beginner & Professional Developers in 2024 | https://www.youtube.com/watch?v=S7XpTAnSDL4
 - Play with Git visually : https://learngitbranching.js.org/
-- 
